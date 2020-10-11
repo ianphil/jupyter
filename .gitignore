@@ -9,3 +9,4 @@ ipython_config.py
 # Secrets
 .env
 
+.vscode/*
