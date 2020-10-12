@@ -7,7 +7,7 @@ The intent is to make it easy to run Jupyter Notebooks (scipy) locally using doc
  - VSCode
  - Microsoft Python Extension for VSCode
 
- ## Get Started
+## Get Started
 
  1. Clone the repo
  2. cd into `jupyter/` folder
@@ -21,3 +21,5 @@ The intent is to make it easy to run Jupyter Notebooks (scipy) locally using doc
  
  NOTE: `notebooks` is mounted as `work` in the browser/container
 
+## More Info
+[Working with Jupyter Notebooks in Visual Studio Code](https://code.visualstudio.com/docs/python/jupyter-support)
